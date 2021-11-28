@@ -1,0 +1,6 @@
+# ReID
+reid-data/
+log/
+saved-models/
+model-zoo/
+debug*
